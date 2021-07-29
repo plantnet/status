@@ -51,7 +51,7 @@ status-website:
   faviconSvg: https://plantnet.org/wp-content/uploads/2021/07/plantnet_icone_square.svg
   name: Pl@ntNet Status Page
   introTitle: ""
-  introMessage: Uptime every 5 minutes, graph and response time every hour
+  introMessage: Uptime every 2 minutes, graph and response time every hour
   navbar:
     - title: Status
       href: /
