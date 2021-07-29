@@ -1,5 +1,5 @@
 owner: plantnet
-repo: status #
+repo: status
 
 sites:
   - name: API (my.plantnet.org)
@@ -37,7 +37,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "0 0 * * *" # Triggered by the GitHub Self Hosted Runner cron
 
 runner: [self-hosted]
 
