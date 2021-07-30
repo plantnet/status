@@ -53,8 +53,6 @@ status-website:
   introTitle: ""
   introMessage: Uptime every 2 minutes, graph and response time every hour
   navbar:
-    - title: Status
-      href: /
     - title: API
       href: https://my.plantnet.org
     - title: Identify web
