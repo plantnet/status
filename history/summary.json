@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 94,
-    "timeWeek": 99,
+    "timeDay": 97,
+    "timeWeek": 98,
     "timeMonth": 99,
     "timeYear": 99,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://api.plantnet.org/v1/projects/weurope/observations",
     "icon": "https://favicons.githubusercontent.com/api.plantnet.org",
     "slug": "pl-nt-net-apps-include-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 202,
+    "timeDay": 203,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-10": 0
+    }
   },
   {
     "name": "Image server",
@@ -47,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 257,
-    "timeWeek": 279,
+    "timeDay": 251,
+    "timeWeek": 278,
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {}
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 339,
-    "timeWeek": 432,
-    "timeMonth": 477,
-    "timeYear": 477,
+    "time": 472,
+    "timeDay": 334,
+    "timeWeek": 340,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {}
   }
 ]
