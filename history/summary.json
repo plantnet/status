@@ -42,19 +42,19 @@
     "url": "https://bs.plantnet.org/image/o/e776015a3c885cd7ede6ee713115acb9665c37c5",
     "icon": "https://image.flaticon.com/icons/png/512/1829/1829589.png",
     "slug": "image-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 241,
-    "timeDay": 1329,
-    "timeWeek": 367,
+    "timeDay": 1295,
+    "timeWeek": 366,
     "timeMonth": 246,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2021-08-31": 18
+      "2021-08-31": 20
     }
   },
   {
