@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 90,
+    "time": 137,
+    "timeDay": 93,
     "timeWeek": 95,
     "timeMonth": 144,
-    "timeYear": 138,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 188,
+    "timeDay": 199,
     "timeWeek": 199,
-    "timeMonth": 211,
+    "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2021-08-10": 1
@@ -43,16 +43,16 @@
     "icon": "https://image.flaticon.com/icons/png/512/1829/1829589.png",
     "slug": "image-server",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "80.72%",
+    "uptime": "99.42%",
+    "uptimeDay": "80.86%",
     "uptimeWeek": "96.98%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "99.41%",
-    "time": 253,
-    "timeDay": 778,
-    "timeWeek": 449,
-    "timeMonth": 264,
-    "timeYear": 253,
+    "uptimeYear": "99.42%",
+    "time": 251,
+    "timeDay": 813,
+    "timeWeek": 448,
+    "timeMonth": 261,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2021-09-03": 278,
       "2021-08-31": 28
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 313,
-    "timeWeek": 327,
-    "timeMonth": 328,
-    "timeYear": 374,
+    "time": 373,
+    "timeDay": 318,
+    "timeWeek": 326,
+    "timeMonth": 327,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   }
 ]
