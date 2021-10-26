@@ -1,7 +1,7 @@
 url: https://ambazac.cirad.fr/status/identification
-status: down
-code: 502
-responseTime: 69
-lastUpdated: 2021-10-26T22:14:19.464Z
+status: up
+code: 200
+responseTime: 469
+lastUpdated: 2021-10-26T22:16:18.240Z
 startTime: Thu Jul 29 2021 10:38:46 GMT+0200 (Central European Summer Time)
 generator: Upptime <https://github.com/upptime/upptime>
