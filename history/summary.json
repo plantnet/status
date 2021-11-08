@@ -71,19 +71,18 @@
     "url": "https://ambazac.cirad.fr/status/identification",
     "icon": "https://image.flaticon.com/icons/png/512/2061/2061956.png",
     "slug": "identification-engine",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 353,
-    "timeDay": 294,
+    "time": 352,
+    "timeDay": 293,
     "timeWeek": 317,
     "timeMonth": 333,
-    "timeYear": 353,
+    "timeYear": 352,
     "dailyMinutesDown": {
-      "2021-11-08": 1,
       "2021-10-09": 26
     }
   }
