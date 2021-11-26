@@ -55,7 +55,7 @@
     "uptimeYear": "99.48%",
     "time": 455,
     "timeDay": 175,
-    "timeWeek": 185,
+    "timeWeek": 184,
     "timeMonth": 382,
     "timeYear": 455,
     "dailyMinutesDown": {
@@ -74,17 +74,17 @@
     "slug": "identification-engine",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "78.31%",
-    "uptimeWeek": "96.90%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "77.45%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.80%",
     "time": 358,
-    "timeDay": 512,
-    "timeWeek": 391,
+    "timeDay": 504,
+    "timeWeek": 390,
     "timeMonth": 355,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2021-11-26": 312,
+      "2021-11-26": 325,
       "2021-10-09": 26
     }
   }
