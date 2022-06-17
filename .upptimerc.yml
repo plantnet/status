@@ -29,6 +29,8 @@ sites:
       - jclombar
     headers:
       - "User-Agent: Upptime bot / github.com/plantnet/status"
+  - name: Beta service
+    url: https://hugo.gresse.io/plantnet/aaaa/temp.php?apikey=$MY_PLANTNET_API_KEY
 
 workflowSchedule:
   graphs: "0 * * * *"
