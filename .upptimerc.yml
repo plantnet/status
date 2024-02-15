@@ -23,7 +23,7 @@ sites:
     headers:
       - "User-Agent: Upptime bot / github.com/plantnet/status"
   - name: Identification engine
-    url: https://ambazac.cirad.fr/status/identification
+    url: https://api-test.plantnet.org/status/identification
     icon: https://image.flaticon.com/icons/png/512/2061/2061956.png
     assignees:
       - jclombar
