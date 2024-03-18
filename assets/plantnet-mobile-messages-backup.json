@@ -1,8 +1,8 @@
 {
 	"status": {
-		"en": "Our services are currently taking a sunbath and fresh water during a scheduled maintenance. Just like a plant that flourishes after careful tending, we will come back stronger and greener later in the day.",
-		"fr": "Nos services prennent actuellement un bain de soleil et d'eau fraîche lors d'une maintenance programmée. Comme pour une plante qui s'épanouit après un soin attentif, nous reviendrons plus forts et plus verdoyants plus tard dans la journée.",
-		"de": "Unsere Dienste nehmen derzeit ein Sonnenbad und frisches Wasser während einer geplanten Wartung. Wie eine Pflanze, die nach sorgfältiger Pflege aufblüht, werden wir später am Tag stärker und grüner zurückkommen.",
-		"es": "Nuestros servicios están tomando actualmente un baño de sol y agua fresca durante un mantenimiento programado. Al igual que una planta que florece después de un cuidado atento, volveremos más fuertes y más verdes más tarde en el día."
+		"en": "Technical problems can disrupt the proper use of the app (it's also possible that your IP has been blocked)",
+		"fr": "Des problèmes techniques peuvent perturber l'utilisation l'application (il est également possible que votre IP ait été bloquée)",
+  		"de": "Technische Probleme können die ordnungsgemäße Nutzung der App stören (es ist auch möglich, dass Ihre IP gesperrt wurde)",
+  		"es": "Los problemas técnicos pueden interrumpir el uso adecuado de la app (también es posible que tu IP haya sido bloqueada)"
 	}
 }
