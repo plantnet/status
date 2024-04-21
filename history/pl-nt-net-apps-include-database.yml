@@ -1,7 +1,7 @@
 url: https://api.plantnet.org/v1/projects/weurope/observations
-status: up
-code: 200
-responseTime: 198
-lastUpdated: 2024-04-21T13:03:01.400Z
+status: down
+code: 500
+responseTime: 56
+lastUpdated: 2024-04-21T13:04:14.090Z
 startTime: 2021-07-29T08:38:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
