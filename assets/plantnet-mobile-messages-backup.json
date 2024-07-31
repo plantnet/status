@@ -3,6 +3,7 @@
 		"en": "Technical problems can disrupt the proper use of the app (it's also possible that your IP has been blocked)",
 		"fr": "Des problèmes techniques peuvent perturber l'utilisation l'application (il est également possible que votre IP ait été bloquée)",
   		"de": "Technische Probleme können die ordnungsgemäße Nutzung der App stören (es ist auch möglich, dass Ihre IP gesperrt wurde)",
-  		"es": "Los problemas técnicos pueden interrumpir el uso adecuado de la app (también es posible que tu IP haya sido bloqueada)"
+  		"es": "Los problemas técnicos pueden interrumpir el uso adecuado de la app (también es posible que tu IP haya sido bloqueada)",
+		"ru": "Технические проблемы могут нарушить правильное использование приложения (также возможно, что ваш IP заблокирован, в этом случае вы можете использовать VPN)"
 	}
 }
