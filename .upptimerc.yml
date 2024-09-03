@@ -39,7 +39,7 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "0 0 * * *" # Triggered by the GitHub Self Hosted Runner cron
 
-runner: [node20]
+runner: [self-hosted, node20]
 
 # Try to prevent the actions to delete issues
 skipDeleteIssues: true
