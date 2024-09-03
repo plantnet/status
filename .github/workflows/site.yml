@@ -24,7 +24,7 @@ on:
 jobs:
   release:
     name: Build and deploy site
-    runs-on: self-hosted,node20
+    runs-on: self-hosted
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
@@ -38,7 +38,7 @@ jobs:
           command: "site"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
-      - uses: peaceiris/actions-gh-pages@v3.7.3
+      - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:
           github_token: ${{ secrets.GH_PAT || github.token }}
