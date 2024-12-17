@@ -37,7 +37,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *" # Triggered by the GitHub Self Hosted Runner cron
+  uptime: "0 0 * * *" # Triggered by the GitHub Self Hosted Runner cron
 
 runner: [self-hosted]
 
