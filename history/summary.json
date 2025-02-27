@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 109,
-    "timeDay": 102,
-    "timeWeek": 181,
-    "timeMonth": 233,
-    "timeYear": 110,
+    "time": 111,
+    "timeDay": 571,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 112,
     "dailyMinutesDown": {
       "2024-07-03": 5,
       "2024-06-29": 17,
@@ -23,8 +23,7 @@
       "2024-05-20": 3,
       "2024-05-02": 15,
       "2024-04-23": 79,
-      "2024-03-18": 76,
-      "2024-02-28": 11
+      "2024-03-18": 76
     }
   },
   {
@@ -38,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 276,
-    "timeDay": 336,
-    "timeWeek": 327,
-    "timeMonth": 335,
-    "timeYear": 278,
+    "time": 280,
+    "timeDay": 1069,
+    "timeWeek": 437,
+    "timeMonth": 357,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2024-06-27": 4,
       "2024-05-29": 4,
@@ -54,8 +53,7 @@
       "2024-04-14": 32,
       "2024-04-09": 4,
       "2024-04-07": 23,
-      "2024-03-18": 92,
-      "2024-02-28": 10
+      "2024-03-18": 92
     }
   },
   {
@@ -65,13 +63,13 @@
     "slug": "image-server",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "94.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
     "time": 183,
-    "timeDay": 163,
-    "timeWeek": 163,
+    "timeDay": 167,
+    "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 182,
     "dailyMinutesDown": {
@@ -97,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 726,
-    "timeDay": 490,
-    "timeWeek": 455,
-    "timeMonth": 447,
-    "timeYear": 734,
+    "time": 725,
+    "timeDay": 434,
+    "timeWeek": 453,
+    "timeMonth": 444,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2024-12-23": 4,
       "2024-09-27": 3,
