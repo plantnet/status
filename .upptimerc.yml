@@ -36,7 +36,14 @@ sites:
       - jclombar
     headers:
       - "User-Agent: Upptime bot / github.com/plantnet/status"
-
+  - name: Upptime status checks
+    url: https://pulse.updown.io/$UPDOWN_IO_PULSE
+    icon: https://updown.io/assets/logo-a91cdb1cc5f67a0f1c176b39a69b8efd81af95d067c2ac09107dd1e296f8f49f.png
+    assignees:
+      - hugogresse
+    headers:
+      - "User-Agent: Upptime bot / github.com/plantnet/status"
+      
 workflowSchedule:
   graphs: "0 * * * *"
   responseTime: "0 * * * *"
