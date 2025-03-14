@@ -9,6 +9,13 @@ sites:
       - matcho
     headers:
       - "User-Agent: Upptime bot / github.com/plantnet/status"
+  - name: API (my.plantnet.org) identification
+    url: https://my-api.plantnet.org/v2/identify/all?images=https://bs.plantnet.org/image/o/c7b03d1f91899335739f020a6a3206d21591cbaf&api-key=$MY_PLANTNET_API_KEY
+    icon: https://image.flaticon.com/icons/png/512/1015/1015474.png
+    assignees:
+      - matcho
+    headers:
+      - "User-Agent: Upptime bot / github.com/plantnet/status"
   - name: Pl@ntNet Apps (include database)
     url: https://api.plantnet.org/v1/projects/weurope/observations
     assignees:
