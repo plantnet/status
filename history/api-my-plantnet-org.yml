@@ -1,7 +1,7 @@
 url: https://my-api.plantnet.org/v2/languages?api-key=$MY_PLANTNET_API_KEY
 status: up
 code: 200
-responseTime: 121
-lastUpdated: 2025-04-19T23:02:37.734Z
+responseTime: 130
+lastUpdated: 2025-04-20T00:13:11.890Z
 startTime: 2021-07-29T08:38:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
