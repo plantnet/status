@@ -1,9 +1,11 @@
 {
 	"status": {
-		"en": "Technical problems can disrupt the proper use of the app (it's also possible that your IP has been blocked)",
-		"fr": "Des problèmes techniques peuvent perturber l'utilisation l'application (il est également possible que votre IP ait été bloquée)",
-  		"de": "Technische Probleme können die ordnungsgemäße Nutzung der App stören (es ist auch möglich, dass Ihre IP gesperrt wurde)",
-  		"es": "Los problemas técnicos pueden interrumpir el uso adecuado de la app (también es posible que tu IP haya sido bloqueada)",
-		"ru": "Технические проблемы могут нарушить правильное использование приложения (также возможно, что ваш IP заблокирован, в этом случае вы можете использовать VPN)"
+		  "en": "Pl@ntNet is currently offline due to technical reasons. Our infrastructure provider had a major outage, and we expect to be back either Friday the 25th or next week.",
+		  "fr": "Pl@ntNet est actuellement hors ligne pour des raisons techniques. Notre fournisseur d'infrastructure a subi une panne majeure, et nous prévoyons d'être de retour en ligne soit le vendredi 25, soit la semaine prochaine.",
+		  "de": "Pl@ntNet ist derzeit aus technischen Gründen offline. Unser Infrastruktur-Anbieter hatte einen größeren Ausfall, und wir erwarten, entweder am Freitag, den 25., oder nächste Woche wieder online zu sein.",
+		  "es": "Pl@ntNet está actualmente fuera de línea por razones técnicas. Nuestro proveedor de infraestructura tuvo una gran interrupción, y esperamos volver a estar en línea el viernes 25 o la próxima semana.",
+		  "ru": "Pl@ntNet в настоящее время не работает по техническим причинам. Наш поставщик инфраструктуры столкнулся с серьезным сбоем, и мы ожидаем вернуться в онлайн либо в пятницу, 25-го, либо на следующей неделе.",
+		  "nl": "Pl@ntNet is momenteel offline vanwege technische redenen. Onze infrastructuurprovider had een grote storing en we verwachten vrijdag de 25e of volgende week weer online te zijn.",
+		  "pt": "Pl@ntNet está atualmente offline por razões técnicas. Nosso provedor de infraestrutura teve uma grande interrupção, e esperamos estar online novamente na sexta-feira, dia 25, ou na próxima semana."
 	}
 }
