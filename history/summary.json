@@ -11,8 +11,8 @@
     "uptimeMonth": "97.42%",
     "uptimeYear": "99.77%",
     "time": 130,
-    "timeDay": 104,
-    "timeWeek": 110,
+    "timeDay": 105,
+    "timeWeek": 109,
     "timeMonth": 114,
     "timeYear": 132,
     "dailyMinutesDown": {
@@ -34,16 +34,16 @@
     "icon": "https://image.flaticon.com/icons/png/512/1015/1015474.png",
     "slug": "api-my-plantnet-org-identification",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "uptimeDay": "98.82%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "97.39%",
-    "uptimeYear": "98.68%",
-    "time": 905,
-    "timeDay": 603,
-    "timeWeek": 600,
-    "timeMonth": 1016,
-    "timeYear": 905,
+    "uptimeYear": "98.69%",
+    "time": 903,
+    "timeDay": 549,
+    "timeWeek": 592,
+    "timeMonth": 1010,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2025-05-14": 17,
       "2025-05-01": 4,
@@ -66,8 +66,8 @@
     "uptimeMonth": "97.15%",
     "uptimeYear": "99.76%",
     "time": 324,
-    "timeDay": 363,
-    "timeWeek": 369,
+    "timeDay": 361,
+    "timeWeek": 365,
     "timeMonth": 384,
     "timeYear": 327,
     "dailyMinutesDown": {
@@ -94,8 +94,8 @@
     "uptimeMonth": "97.48%",
     "uptimeYear": "99.76%",
     "time": 214,
-    "timeDay": 174,
-    "timeWeek": 171,
+    "timeDay": 176,
+    "timeWeek": 172,
     "timeMonth": 365,
     "timeYear": 214,
     "dailyMinutesDown": {
@@ -124,8 +124,8 @@
     "uptimeMonth": "97.47%",
     "uptimeYear": "99.77%",
     "time": 582,
-    "timeDay": 443,
-    "timeWeek": 451,
+    "timeDay": 424,
+    "timeWeek": 452,
     "timeMonth": 459,
     "timeYear": 576,
     "dailyMinutesDown": {
@@ -136,8 +136,7 @@
       "2024-12-23": 4,
       "2024-09-27": 3,
       "2024-09-12": 3,
-      "2024-06-27": 3,
-      "2024-05-15": 51
+      "2024-06-27": 3
     }
   },
   {
@@ -145,17 +144,19 @@
     "url": "https://pulse.updown.io/$UPDOWN_IO_PULSE",
     "icon": "https://updown.io/assets/logo-a91cdb1cc5f67a0f1c176b39a69b8efd81af95d067c2ac09107dd1e296f8f49f.png",
     "slug": "upptime-status-checks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 113,
+    "timeDay": 114,
     "timeWeek": 113,
     "timeMonth": 116,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-15": 3
+    }
   }
 ]
