@@ -1,7 +1,7 @@
 url: https://my-api.plantnet.org/v2/identify/all?images=https://bs.plantnet.org/image/o/c7b03d1f91899335739f020a6a3206d21591cbaf&api-key=$MY_PLANTNET_API_KEY
 status: up
 code: 200
-responseTime: 610
-lastUpdated: 2025-06-24T07:03:26.205Z
+responseTime: 544
+lastUpdated: 2025-06-24T08:03:56.290Z
 startTime: 2025-03-14T08:46:58.035Z
 generator: Upptime <https://github.com/upptime/upptime>
