@@ -1,9 +1,16 @@
 {
-	"status": {
-		"en": "Technical problems can disrupt the proper use of the app (it's also possible that your IP has been blocked)",
-		"fr": "Des problèmes techniques peuvent perturber l'utilisation l'application (il est également possible que votre IP ait été bloquée)",
-  		"de": "Technische Probleme können die ordnungsgemäße Nutzung der App stören (es ist auch möglich, dass Ihre IP gesperrt wurde)",
-  		"es": "Los problemas técnicos pueden interrumpir el uso adecuado de la app (también es posible que tu IP haya sido bloqueada)",
-		"ru": "Технические проблемы могут нарушить правильное использование приложения (также возможно, что ваш IP заблокирован, в этом случае вы можете использовать VPN)"
-	}
+    "status": {
+        "en": "Technical problems can disrupt the proper use of the app",
+        "fr": "Des problèmes techniques peuvent perturber l'utilisation l'application",
+        "de": "Technische Probleme können die ordnungsgemäße Nutzung der App stören",
+        "es": "Los problemas técnicos pueden interrumpir el uso adecuado de la app",
+        "ru": "Технические проблемы могут нарушить правильное использование приложения"
+    },
+    "statusPlantNetUnreachable": { 
+        "en": "Pl@ntNet services are operating normally, but your IP or your country has been blocked by our infrastructure provider. We are sorry for this. You may want to use a VPN or another network for a few days to use the app.",
+        "fr": "Les services Pl@ntNet fonctionnent normalement, mais votre adresse IP ou votre pays a été bloqué par notre fournisseur d'infrastructure. Nous en sommes désolés. Vous pouvez essayer d'utiliser un VPN ou un autre réseau pendant quelques jours pour utiliser l'application.",
+        "de": "Die Pl@ntNet-Dienste funktionieren einwandfrei, aber Ihre IP-Adresse oder Ihr Land wurde von unserem Infrastrukturanbieter blockiert. Es tut uns leid. Sie können versuchen, ein VPN oder ein anderes Netzwerk für ein paar Tage zu verwenden, um die App zu nutzen.",
+        "es": "Los servicios de Pl@ntNet funcionan con normalidad, pero tu IP o tu país han sido bloqueados por nuestro proveedor de infraestructura. Lo lamentamos. Puedes intentar utilizar una VPN u otra red durante algunos días para usar la aplicación.",
+        "ru": "Сервисы Pl@ntNet работают нормально, но ваш IP-адрес или страна были заблокированы нашим инфраструктурным провайдером. Нам очень жаль. Вы можете попробовать использовать VPN или другую сеть в течение нескольких дней, чтобы пользоваться приложением."
+    }
 }
