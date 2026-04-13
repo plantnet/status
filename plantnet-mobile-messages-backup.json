@@ -1,10 +1,10 @@
 {
     "status": {
-        "en": "Our services are under maintenance until 17:00",
-        "fr": "Nos services sont en maintenance jusqu'à 17h00",
-        "de": "Unsere Dienste sind bis 17:00 Uhr in Wartung",
-        "es": "Nuestros servicios están en mantenimiento hasta las 17:00",
-        "ru": "Наши сервисы находятся на обслуживании до 17:00"
+        "en": "Technical problems can disrupt the proper use of the app",
+        "fr": "Des problèmes techniques peuvent perturber l'utilisation de l'application",
+        "de": "Technische Probleme können die ordnungsgemäße Nutzung der App stören",
+        "es": "Los problemas técnicos pueden interrumpir el uso adecuado de la app",
+        "ru": "Технические проблемы могут нарушить правильное использование приложения"
     },
     "statusPlantNetUnreachable": { 
         "en": "Pl@ntNet services are operating normally, but your IP or your country has been blocked by our infrastructure provider. We are sorry for this. You may want to use a VPN or another network for a few days to use the app.",
