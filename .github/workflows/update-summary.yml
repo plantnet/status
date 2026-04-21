@@ -1,0 +1,30 @@
+name: Update Summary
+
+on:
+  schedule:
+    - cron: '00 06 * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [updown]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Fetch and generate summary
+        run: |
+          curl -sf "https://updown.io/api/checks?api-key=${{ secrets.UPDOWN_API_KEY }}" \
+          | jq '[.[] | {name: .alias, status: (if .down then "down" else "up" end), updatedAt: .last_check_at}]' \
+          > history/summary.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet history/summary.json || \
+            (git add history/summary.json && git commit -m "chore: update summary" && git push)
