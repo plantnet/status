@@ -2,37 +2,37 @@
   {
     "name": "Identification engine via BS ",
     "status": "up",
-    "updatedAt": "2026-04-22T04:12:08Z"
+    "updatedAt": "2026-04-22T04:13:08Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-04-22T04:11:32Z"
+    "updatedAt": "2026-04-22T04:12:31Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
-    "status": "up",
-    "updatedAt": "2026-04-22T04:12:04Z"
+    "status": "down",
+    "updatedAt": "2026-04-22T04:13:04Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "up",
-    "updatedAt": "2026-04-22T04:11:54Z"
+    "updatedAt": "2026-04-22T04:12:53Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-04-22T04:10:21Z"
+    "updatedAt": "2026-04-22T04:12:21Z"
   },
   {
     "name": "PlantNet App Web",
     "status": "up",
-    "updatedAt": "2026-04-22T04:10:10Z"
+    "updatedAt": "2026-04-22T04:13:10Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-04-22T04:10:13Z"
+    "updatedAt": "2026-04-22T04:13:12Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
@@ -57,7 +57,7 @@
   {
     "name": "maps.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-04-22T04:02:43Z"
+    "updatedAt": "2026-04-22T04:12:40Z"
   },
   {
     "name": "PlantNet API /models",
@@ -67,7 +67,7 @@
   {
     "name": "DataStore bourbonais",
     "status": "up",
-    "updatedAt": "2026-04-22T03:12:44Z"
+    "updatedAt": "2026-04-22T04:12:23Z"
   },
   {
     "name": "wordpress",
