@@ -2,76 +2,76 @@
   {
     "name": "Identification engine via BS ",
     "status": "down",
-    "updatedAt": "2026-04-22T04:24:03Z"
+    "updatedAt": "2026-04-22T06:31:39Z"
   },
   {
     "name": "Identification engine",
     "status": "down",
-    "updatedAt": "2026-04-22T04:23:27Z"
+    "updatedAt": "2026-04-22T06:30:48Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "down",
-    "updatedAt": "2026-04-22T04:23:01Z"
+    "updatedAt": "2026-04-22T06:30:27Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "down",
-    "updatedAt": "2026-04-22T04:23:50Z"
+    "updatedAt": "2026-04-22T06:31:27Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-04-22T04:24:17Z"
+    "updatedAt": "2026-04-22T06:31:43Z"
   },
   {
     "name": "PlantNet App Web",
     "status": "down",
-    "updatedAt": "2026-04-22T04:24:07Z"
+    "updatedAt": "2026-04-22T06:31:31Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "down",
-    "updatedAt": "2026-04-22T04:24:08Z"
+    "updatedAt": "2026-04-22T06:31:37Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "down",
-    "updatedAt": "2026-04-22T04:24:11Z"
+    "updatedAt": "2026-04-22T06:28:34Z"
   },
   {
     "name": "Identification engine via GitHub",
     "status": "down",
-    "updatedAt": "2026-04-22T04:24:11Z"
+    "updatedAt": "2026-04-22T06:23:37Z"
   },
   {
     "name": "GeoPlantNet website",
     "status": "up",
-    "updatedAt": "2026-04-22T04:19:27Z"
+    "updatedAt": "2026-04-22T06:28:45Z"
   },
   {
     "name": "GeoPlantNet API",
     "status": "up",
-    "updatedAt": "2026-04-22T04:18:43Z"
+    "updatedAt": "2026-04-22T06:28:11Z"
   },
   {
     "name": "maps.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-04-22T04:22:37Z"
+    "updatedAt": "2026-04-22T06:26:49Z"
   },
   {
     "name": "PlantNet API /models",
-    "status": "up",
-    "updatedAt": "2026-04-22T03:52:53Z"
+    "status": "down",
+    "updatedAt": "2026-04-22T05:51:53Z"
   },
   {
     "name": "DataStore bourbonais",
     "status": "up",
-    "updatedAt": "2026-04-22T04:12:23Z"
+    "updatedAt": "2026-04-22T06:11:37Z"
   },
   {
     "name": "wordpress",
     "status": "up",
-    "updatedAt": "2026-04-22T03:58:44Z"
+    "updatedAt": "2026-04-22T05:58:01Z"
   }
 ]
