@@ -1,8 +1,8 @@
 [
   {
     "name": "Identification engine via BS ",
-    "status": "up",
-    "updatedAt": "2026-04-22T04:13:08Z"
+    "status": "down",
+    "updatedAt": "2026-04-22T04:14:06Z"
   },
   {
     "name": "Identification engine",
@@ -22,27 +22,27 @@
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-04-22T04:12:21Z"
+    "updatedAt": "2026-04-22T04:14:21Z"
   },
   {
     "name": "PlantNet App Web",
-    "status": "up",
-    "updatedAt": "2026-04-22T04:13:10Z"
+    "status": "down",
+    "updatedAt": "2026-04-22T04:14:10Z"
   },
   {
     "name": "API (my.plantnet.org)",
-    "status": "up",
-    "updatedAt": "2026-04-22T04:13:12Z"
+    "status": "down",
+    "updatedAt": "2026-04-22T04:14:12Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-04-22T04:09:18Z"
+    "updatedAt": "2026-04-22T04:14:16Z"
   },
   {
     "name": "Identification engine via GitHub",
     "status": "up",
-    "updatedAt": "2026-04-22T04:04:18Z"
+    "updatedAt": "2026-04-22T04:14:16Z"
   },
   {
     "name": "GeoPlantNet website",
