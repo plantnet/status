@@ -2,7 +2,7 @@
   {
     "name": "PlantNet API /models",
     "status": "down",
-    "updatedAt": "2026-04-29T12:11:14Z"
+    "updatedAt": "2026-04-29T12:12:03Z"
   },
   {
     "name": "Identification engine via BS ",
@@ -21,8 +21,8 @@
   },
   {
     "name": "PlantNet App API observations feed",
-    "status": "up",
-    "updatedAt": "2026-04-29T12:10:18Z"
+    "status": "down",
+    "updatedAt": "2026-04-29T12:11:18Z"
   },
   {
     "name": "Image server",
