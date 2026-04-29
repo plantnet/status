@@ -2,22 +2,22 @@
   {
     "name": "PlantNet API /models",
     "status": "down",
-    "updatedAt": "2026-04-29T12:10:26Z"
+    "updatedAt": "2026-04-29T12:11:14Z"
   },
   {
     "name": "Identification engine via BS ",
-    "status": "up",
-    "updatedAt": "2026-04-29T12:10:12Z"
+    "status": "down",
+    "updatedAt": "2026-04-29T12:11:11Z"
   },
   {
     "name": "Identification engine",
-    "status": "up",
-    "updatedAt": "2026-04-29T12:10:00Z"
+    "status": "down",
+    "updatedAt": "2026-04-29T12:11:00Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
-    "status": "up",
-    "updatedAt": "2026-04-29T12:10:00Z"
+    "status": "down",
+    "updatedAt": "2026-04-29T12:10:59Z"
   },
   {
     "name": "PlantNet App API observations feed",
@@ -26,8 +26,8 @@
   },
   {
     "name": "Image server",
-    "status": "up",
-    "updatedAt": "2026-04-29T12:09:37Z"
+    "status": "down",
+    "updatedAt": "2026-04-29T12:10:36Z"
   },
   {
     "name": "PlantNet App Web",
@@ -36,8 +36,8 @@
   },
   {
     "name": "API (my.plantnet.org)",
-    "status": "up",
-    "updatedAt": "2026-04-29T12:09:52Z"
+    "status": "down",
+    "updatedAt": "2026-04-29T12:10:52Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
