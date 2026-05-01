@@ -2,52 +2,52 @@
   {
     "name": "PlantNet API /models",
     "status": "up",
-    "updatedAt": "2026-05-01T17:04:12Z"
+    "updatedAt": "2026-05-01T17:08:26Z"
   },
   {
     "name": "Identification engine via BS ",
     "status": "up",
-    "updatedAt": "2026-05-01T17:03:38Z"
+    "updatedAt": "2026-05-01T17:07:36Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-05-01T17:03:28Z"
+    "updatedAt": "2026-05-01T17:07:27Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "up",
-    "updatedAt": "2026-05-01T17:03:19Z"
+    "updatedAt": "2026-05-01T17:07:18Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "up",
-    "updatedAt": "2026-05-01T17:03:52Z"
+    "updatedAt": "2026-05-01T17:07:52Z"
   },
   {
     "name": "Image server",
-    "status": "down",
-    "updatedAt": "2026-05-01T17:04:07Z"
+    "status": "up",
+    "updatedAt": "2026-05-01T17:08:07Z"
   },
   {
     "name": "PlantNet App Web",
     "status": "up",
-    "updatedAt": "2026-05-01T17:02:33Z"
+    "updatedAt": "2026-05-01T17:06:31Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-05-01T17:02:31Z"
+    "updatedAt": "2026-05-01T17:06:31Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-05-01T17:01:48Z"
+    "updatedAt": "2026-05-01T17:06:46Z"
   },
   {
     "name": "Identification engine via GitHub",
     "status": "up",
-    "updatedAt": "2026-05-01T16:57:04Z"
+    "updatedAt": "2026-05-01T17:06:59Z"
   },
   {
     "name": "GeoPlantNet website",
