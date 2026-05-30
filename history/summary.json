@@ -1,8 +1,8 @@
 [
   {
     "name": "PlantNet API /models",
-    "status": "down",
-    "updatedAt": "2026-05-30T14:45:33Z"
+    "status": "up",
+    "updatedAt": "2026-05-30T14:46:17Z"
   },
   {
     "name": "Identification engine via BS ",
@@ -12,7 +12,7 @@
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-05-30T14:43:54Z"
+    "updatedAt": "2026-05-30T14:45:53Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
@@ -52,7 +52,7 @@
   {
     "name": "Identification engine via GitHub",
     "status": "up",
-    "updatedAt": "2026-05-30T14:36:06Z"
+    "updatedAt": "2026-05-30T14:46:01Z"
   },
   {
     "name": "GeoPlantNet website",
@@ -62,7 +62,7 @@
   {
     "name": "GeoPlantNet API",
     "status": "up",
-    "updatedAt": "2026-05-30T14:36:23Z"
+    "updatedAt": "2026-05-30T14:46:21Z"
   },
   {
     "name": "maps.plantnet.org",
