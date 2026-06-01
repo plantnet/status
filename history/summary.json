@@ -2,81 +2,81 @@
   {
     "name": "PlantNet API /models",
     "status": "up",
-    "updatedAt": "2026-05-31T07:12:17Z"
+    "updatedAt": "2026-06-01T07:35:39Z"
   },
   {
     "name": "Identification engine via BS ",
     "status": "up",
-    "updatedAt": "2026-05-31T07:10:49Z"
+    "updatedAt": "2026-06-01T07:34:11Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-05-31T07:11:09Z"
+    "updatedAt": "2026-06-01T07:34:25Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "up",
-    "updatedAt": "2026-05-31T07:10:52Z"
+    "updatedAt": "2026-06-01T07:35:39Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "up",
-    "updatedAt": "2026-05-31T07:11:38Z"
+    "updatedAt": "2026-06-01T07:34:51Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-05-31T07:12:14Z"
+    "updatedAt": "2026-06-01T07:34:35Z"
   },
   {
     "name": "PlantNet App Web",
     "status": "up",
-    "updatedAt": "2026-05-31T07:11:29Z"
+    "updatedAt": "2026-06-01T07:35:30Z"
   },
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-05-31T07:12:18Z"
+    "updatedAt": "2026-06-01T07:34:55Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-05-31T07:11:32Z"
+    "updatedAt": "2026-06-01T07:34:01Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-05-31T07:09:38Z"
+    "updatedAt": "2026-06-01T07:32:37Z"
   },
   {
     "name": "Identification engine via GitHub",
     "status": "up",
-    "updatedAt": "2026-05-31T07:10:50Z"
+    "updatedAt": "2026-06-01T07:33:05Z"
   },
   {
     "name": "GeoPlantNet website",
     "status": "up",
-    "updatedAt": "2026-05-31T07:04:55Z"
+    "updatedAt": "2026-06-01T07:27:23Z"
   },
   {
     "name": "GeoPlantNet API",
     "status": "up",
-    "updatedAt": "2026-05-31T07:11:28Z"
+    "updatedAt": "2026-06-01T07:34:45Z"
   },
   {
     "name": "maps.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-05-31T07:08:58Z"
+    "updatedAt": "2026-06-01T07:31:21Z"
   },
   {
     "name": "DataStore bourbonais",
     "status": "up",
-    "updatedAt": "2026-05-31T06:36:34Z"
+    "updatedAt": "2026-06-01T07:28:49Z"
   },
   {
     "name": "wordpress",
     "status": "up",
-    "updatedAt": "2026-05-31T06:20:51Z"
+    "updatedAt": "2026-06-01T07:12:46Z"
   }
 ]
