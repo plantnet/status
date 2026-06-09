@@ -1,4 +1,5 @@
 {
+    "overrideInAppMessages": false,
     "status": {
         "en": "Technical problems can disrupt the proper use of the app",
         "fr": "Des problèmes techniques peuvent perturber l'utilisation de l'application",
@@ -7,10 +8,17 @@
         "ru": "Технические проблемы могут нарушить правильное использование приложения"
     },
     "statusPlantNetUnreachable": {
-        "en": "Pl@ntNet services are operating normally, but your IP or your country has been blocked by our infrastructure provider. We are sorry for this. You may want to use a VPN or another network for a few days to use the app. If you are using iOS, please update the app to the latest version to make it work.",
-        "fr": "Les services Pl@ntNet fonctionnent normalement, mais votre adresse IP ou votre pays a été bloqué par notre fournisseur d'infrastructure. Nous en sommes désolés. Vous pouvez essayer d'utiliser un VPN ou un autre réseau pendant quelques jours pour utiliser l'application. Si vous utilisez iOS, veuillez mettre à jour l'application vers la dernière version pour qu'elle fonctionne.",
-        "de": "Die Pl@ntNet-Dienste funktionieren einwandfrei, aber Ihre IP-Adresse oder Ihr Land wurde von unserem Infrastrukturanbieter blockiert. Es tut uns leid. Sie können versuchen, ein VPN oder ein anderes Netzwerk für ein paar Tage zu verwenden, um die App zu nutzen. Wenn Sie iOS verwenden, aktualisieren Sie bitte die App auf die neueste Version, damit sie funktioniert.",
-        "es": "Los servicios de Pl@ntNet funcionan con normalidad, pero tu IP o tu país han sido bloqueados por nuestro proveedor de infraestructura. Lo lamentamos. Puedes intentar utilizar una VPN u otra red durante algunos días para usar la aplicación. Si utilizas iOS, actualiza la aplicación a la última versión para que funcione.",
-        "ru": "Сервисы Pl@ntNet работают нормально, но ваш IP-адрес или страна были заблокированы нашим инфраструктурным провайдером. Нам очень жаль. Вы можете попробовать использовать VPN или другую сеть в течение нескольких дней, чтобы пользоваться приложением. Если вы используете iOS, пожалуйста, обновите приложение до последней версии, чтобы оно работало."
-    }
+        "en": "Your device is currently blocked from using Pl@ntNet services. Your IP or country has been blocked by our infrastructure provider. We are sorry for this. You may want to use a VPN or another network for a few days to use the app. If you are using iOS, please update the app to the latest version to make it work.",
+        "fr": "Votre appareil est actuellement bloqué et ne peut pas accéder aux services Pl@ntNet. Votre adresse IP ou votre pays a été bloqué par notre fournisseur d'infrastructure. Nous en sommes désolés. Vous pouvez essayer d'utiliser un VPN ou un autre réseau pendant quelques jours pour utiliser l'application. Si vous utilisez iOS, veuillez mettre à jour l'application vers la dernière version pour qu'elle fonctionne.",
+        "de": "Ihr Gerät ist derzeit von der Nutzung der Pl@ntNet-Dienste blockiert. Ihre IP-Adresse oder Ihr Land wurde von unserem Infrastrukturanbieter blockiert. Es tut uns leid. Sie können versuchen, ein VPN oder ein anderes Netzwerk für ein paar Tage zu verwenden, um die App zu nutzen. Wenn Sie iOS verwenden, aktualisieren Sie bitte die App auf die neueste Version, damit sie funktioniert.",
+        "es": "Tu dispositivo está actualmente bloqueado y no puede usar los servicios de Pl@ntNet. Tu IP o tu país han sido bloqueados por nuestro proveedor de infraestructura. Lo lamentamos. Puedes intentar utilizar una VPN u otra red durante algunos días para usar la aplicación. Si utilizas iOS, actualiza la aplicación a la última versión para que funcione.",
+        "ru": "Ваше устройство в настоящее время заблокировано и не может пользоваться сервисами Pl@ntNet. Ваш IP-адрес или страна были заблокированы нашим инфраструктурным провайдером. Нам очень жаль. Вы можете попробовать использовать VPN или другую сеть в течение нескольких дней, чтобы пользоваться приложением. Если вы используете iOS, пожалуйста, обновите приложение до последней версии, чтобы оно работало."
+    },
+   "statusPlantNetIsolated": {
+	    "en": "Your device can reach our servers, but the Pl@ntNet services are not responding. This may be a temporary issue, or your device or IP may be blocked on our side. Please try again later, switch networks (Wi-Fi / mobile data), or use a VPN.",
+	    "fr": "Votre appareil arrive à joindre nos serveurs, mais les services Pl@ntNet ne répondent pas. Il peut s'agir d'un problème temporaire, ou votre appareil ou votre adresse IP est peut-être bloqué de notre côté. Réessayez plus tard, changez de réseau (Wi-Fi / données mobiles) ou utilisez un VPN.",
+	    "de": "Ihr Gerät kann unsere Server erreichen, aber die Pl@ntNet-Dienste antworten nicht. Es kann sich um ein vorübergehendes Problem handeln, oder Ihr Gerät bzw. Ihre IP-Adresse ist möglicherweise auf unserer Seite blockiert. Bitte versuchen Sie es später erneut, wechseln Sie das Netzwerk (WLAN/Mobilfunk) oder verwenden Sie ein VPN.",
+	    "es": "Tu dispositivo puede acceder a nuestros servidores, pero los servicios de Pl@ntNet no responden. Puede tratarse de un problema temporal, o tu dispositivo o tu IP pueden estar bloqueados por nuestra parte. Inténtalo de nuevo más tarde, cambia de red (Wi-Fi / datos móviles) o utiliza una VPN.",
+	    "ru": "Ваше устройство может подключиться к нашим серверам, но сервисы Pl@ntNet не отвечают. Возможно, это временная проблема или ваше устройство либо IP-адрес заблокированы с нашей стороны. Повторите попытку позже, смените сеть (Wi-Fi / мобильные данные) или используйте VPN."
+	}
 }
