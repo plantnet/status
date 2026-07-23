@@ -1,13 +1,13 @@
 [
   {
     "name": "PlantNet API /models",
-    "status": "down",
-    "updatedAt": "2026-07-23T23:20:39Z"
+    "status": "up",
+    "updatedAt": "2026-07-23T23:21:39Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-07-23T23:19:47Z"
+    "updatedAt": "2026-07-23T23:20:46Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
@@ -37,7 +37,7 @@
   {
     "name": "API (my.plantnet.org)",
     "status": "down",
-    "updatedAt": "2026-07-23T23:19:27Z"
+    "updatedAt": "2026-07-23T23:21:26Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
