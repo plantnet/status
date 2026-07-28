@@ -1,0 +1,13 @@
+{
+    "updatedAt": "2026-07-28T14:44:02.807Z",
+    "android": {
+        "alpha": null,
+        "beta": null,
+        "production": "5000199"
+    },
+    "ios": {
+        "alpha": null,
+        "beta": "5000199",
+        "production": "5000192"
+    }
+}
