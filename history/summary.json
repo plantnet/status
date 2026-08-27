@@ -1,78 +1,78 @@
 [
   {
     "name": "PlantNet API /models",
-    "status": "down",
-    "updatedAt": "2026-08-27T19:22:00Z"
+    "status": "up",
+    "updatedAt": "2026-08-27T19:45:42Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-08-27T19:20:53Z"
+    "updatedAt": "2026-08-27T19:44:46Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "down",
-    "updatedAt": "2026-08-27T19:20:38Z"
+    "updatedAt": "2026-08-27T19:44:31Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "down",
-    "updatedAt": "2026-08-27T19:20:14Z"
+    "updatedAt": "2026-08-27T19:44:07Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-08-27T19:21:34Z"
+    "updatedAt": "2026-08-27T19:45:27Z"
   },
   {
     "name": "PlantNet App Web",
     "status": "down",
-    "updatedAt": "2026-08-27T19:22:11Z"
+    "updatedAt": "2026-08-27T19:44:07Z"
   },
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-08-27T19:21:50Z"
+    "updatedAt": "2026-08-27T19:45:42Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-08-27T19:21:56Z"
+    "updatedAt": "2026-08-27T19:45:50Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-08-27T19:20:22Z"
+    "updatedAt": "2026-08-27T19:45:13Z"
   },
   {
     "name": "GeoPlantNet website",
     "status": "up",
-    "updatedAt": "2026-08-27T19:16:46Z"
+    "updatedAt": "2026-08-27T19:36:43Z"
   },
   {
     "name": "GeoPlantNet API",
     "status": "up",
-    "updatedAt": "2026-08-27T19:22:31Z"
+    "updatedAt": "2026-08-27T19:42:27Z"
   },
   {
     "name": "maps.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-08-27T19:14:54Z"
+    "updatedAt": "2026-08-27T19:44:45Z"
   },
   {
     "name": "Identification engine via GitHub",
     "status": "up",
-    "updatedAt": "2026-08-27T19:07:57Z"
+    "updatedAt": "2026-08-27T19:37:53Z"
   },
   {
     "name": "Identification engine via BS ",
     "status": "up",
-    "updatedAt": "2026-08-27T19:06:41Z"
+    "updatedAt": "2026-08-27T19:36:41Z"
   },
   {
     "name": "Identification engine via Canada",
     "status": "up",
-    "updatedAt": "2026-08-27T19:00:07Z"
+    "updatedAt": "2026-08-27T19:29:59Z"
   },
   {
     "name": "DataStore bourbonais",
@@ -82,6 +82,6 @@
   {
     "name": "wordpress",
     "status": "up",
-    "updatedAt": "2026-08-27T18:31:37Z"
+    "updatedAt": "2026-08-27T19:31:31Z"
   }
 ]
