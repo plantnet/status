@@ -1,12 +1,12 @@
 {
-    "updatedAt": "2026-07-30T07:02:12.295Z",
+    "updatedAt": "2026-08-29T06:25:46.244Z",
     "android": {
-        "alpha": null,
+        "alpha": "5000200",
         "beta": null,
         "production": "5000199"
     },
     "ios": {
-        "alpha": null,
+        "alpha": "5000200",
         "beta": null,
         "production": "5000199"
     }
