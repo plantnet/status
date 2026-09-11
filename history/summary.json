@@ -1,18 +1,18 @@
 [
   {
     "name": "PlantNet API /models",
-    "status": "down",
-    "updatedAt": "2026-09-11T12:25:01Z"
+    "status": "up",
+    "updatedAt": "2026-09-11T12:26:07Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-09-11T12:23:23Z"
+    "updatedAt": "2026-09-11T12:25:23Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "down",
-    "updatedAt": "2026-09-11T12:23:43Z"
+    "updatedAt": "2026-09-11T12:25:43Z"
   },
   {
     "name": "PlantNet App API observations feed",
@@ -32,12 +32,12 @@
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-09-11T12:23:20Z"
+    "updatedAt": "2026-09-11T12:25:19Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-09-11T12:23:44Z"
+    "updatedAt": "2026-09-11T12:25:43Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
@@ -67,7 +67,7 @@
   {
     "name": "Identification engine via BS ",
     "status": "up",
-    "updatedAt": "2026-09-11T11:55:51Z"
+    "updatedAt": "2026-09-11T12:25:48Z"
   },
   {
     "name": "Identification engine via Canada",
