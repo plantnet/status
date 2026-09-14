@@ -2,52 +2,52 @@
   {
     "name": "PlantNet API /models",
     "status": "up",
-    "updatedAt": "2026-09-14T02:50:21Z"
+    "updatedAt": "2026-09-14T02:55:42Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-09-14T02:49:47Z"
+    "updatedAt": "2026-09-14T02:55:44Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "up",
-    "updatedAt": "2026-09-14T02:50:16Z"
+    "updatedAt": "2026-09-14T02:55:15Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "up",
-    "updatedAt": "2026-09-14T02:50:17Z"
+    "updatedAt": "2026-09-14T02:54:16Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-09-14T02:48:37Z"
+    "updatedAt": "2026-09-14T02:54:35Z"
   },
   {
     "name": "PlantNet App Web",
-    "status": "down",
-    "updatedAt": "2026-09-14T02:49:42Z"
+    "status": "up",
+    "updatedAt": "2026-09-14T02:55:40Z"
   },
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-09-14T02:48:55Z"
+    "updatedAt": "2026-09-14T02:54:54Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-09-14T02:49:41Z"
+    "updatedAt": "2026-09-14T02:54:38Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-09-14T02:50:27Z"
+    "updatedAt": "2026-09-14T02:55:26Z"
   },
   {
     "name": "GeoPlantNet website",
     "status": "up",
-    "updatedAt": "2026-09-14T02:43:01Z"
+    "updatedAt": "2026-09-14T02:52:56Z"
   },
   {
     "name": "GeoPlantNet API",
@@ -57,7 +57,7 @@
   {
     "name": "maps.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-09-14T02:42:16Z"
+    "updatedAt": "2026-09-14T02:52:11Z"
   },
   {
     "name": "Identification engine via GitHub",
@@ -72,7 +72,7 @@
   {
     "name": "Identification engine via Canada",
     "status": "up",
-    "updatedAt": "2026-09-14T02:21:19Z"
+    "updatedAt": "2026-09-14T02:51:10Z"
   },
   {
     "name": "DataStore bourbonais",
