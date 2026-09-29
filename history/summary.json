@@ -2,7 +2,7 @@
   {
     "name": "PlantNet API /models",
     "status": "up",
-    "updatedAt": "2026-09-29T09:12:26Z"
+    "updatedAt": "2026-09-29T09:13:12Z"
   },
   {
     "name": "Identification engine",
@@ -26,13 +26,13 @@
   },
   {
     "name": "PlantNet App Web",
-    "status": "up",
-    "updatedAt": "2026-09-29T09:11:32Z"
+    "status": "down",
+    "updatedAt": "2026-09-29T09:12:32Z"
   },
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-09-29T09:11:11Z"
+    "updatedAt": "2026-09-29T09:13:11Z"
   },
   {
     "name": "API (my.plantnet.org)",
@@ -67,7 +67,7 @@
   {
     "name": "Identification engine via BS ",
     "status": "up",
-    "updatedAt": "2026-09-29T08:43:08Z"
+    "updatedAt": "2026-09-29T09:12:56Z"
   },
   {
     "name": "Identification engine via Canada",
