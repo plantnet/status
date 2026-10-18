@@ -2,62 +2,62 @@
   {
     "name": "PlantNet API /models",
     "status": "up",
-    "updatedAt": "2026-10-18T19:27:24Z"
+    "updatedAt": "2026-10-18T19:36:52Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-10-18T19:26:36Z"
+    "updatedAt": "2026-10-18T19:36:33Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "up",
-    "updatedAt": "2026-10-18T19:26:11Z"
+    "updatedAt": "2026-10-18T19:36:08Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "up",
-    "updatedAt": "2026-10-18T19:27:02Z"
+    "updatedAt": "2026-10-18T19:36:59Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-10-18T19:27:21Z"
+    "updatedAt": "2026-10-18T19:35:20Z"
   },
   {
     "name": "PlantNet App Web",
     "status": "up",
-    "updatedAt": "2026-10-18T19:27:07Z"
+    "updatedAt": "2026-10-18T19:35:05Z"
   },
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-10-18T19:27:26Z"
+    "updatedAt": "2026-10-18T19:35:24Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-10-18T19:26:21Z"
+    "updatedAt": "2026-10-18T19:36:17Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
-    "status": "down",
-    "updatedAt": "2026-10-18T19:26:58Z"
+    "status": "up",
+    "updatedAt": "2026-10-18T19:36:55Z"
   },
   {
     "name": "GeoPlantNet website",
     "status": "up",
-    "updatedAt": "2026-10-18T19:24:00Z"
+    "updatedAt": "2026-10-18T19:33:55Z"
   },
   {
     "name": "GeoPlantNet API",
     "status": "up",
-    "updatedAt": "2026-10-18T19:21:21Z"
+    "updatedAt": "2026-10-18T19:31:21Z"
   },
   {
     "name": "maps.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-10-18T19:25:54Z"
+    "updatedAt": "2026-10-18T19:35:49Z"
   },
   {
     "name": "Identification engine via GitHub",
@@ -72,7 +72,7 @@
   {
     "name": "Identification engine via Canada",
     "status": "up",
-    "updatedAt": "2026-10-18T19:05:27Z"
+    "updatedAt": "2026-10-18T19:35:24Z"
   },
   {
     "name": "DataStore bourbonais",
