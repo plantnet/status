@@ -2,62 +2,62 @@
   {
     "name": "PlantNet API /models",
     "status": "up",
-    "updatedAt": "2026-10-20T15:52:32Z"
+    "updatedAt": "2026-10-20T16:02:30Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-10-20T15:52:26Z"
+    "updatedAt": "2026-10-20T16:02:23Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "up",
-    "updatedAt": "2026-10-20T15:51:42Z"
+    "updatedAt": "2026-10-20T16:01:40Z"
   },
   {
     "name": "PlantNet App API observations feed",
-    "status": "down",
-    "updatedAt": "2026-10-20T15:52:22Z"
+    "status": "up",
+    "updatedAt": "2026-10-20T16:02:22Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-10-20T15:50:55Z"
+    "updatedAt": "2026-10-20T16:00:52Z"
   },
   {
     "name": "PlantNet App Web",
     "status": "up",
-    "updatedAt": "2026-10-20T15:50:56Z"
+    "updatedAt": "2026-10-20T16:00:52Z"
   },
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-10-20T15:51:18Z"
+    "updatedAt": "2026-10-20T16:01:16Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-10-20T15:51:26Z"
+    "updatedAt": "2026-10-20T16:01:27Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-10-20T15:49:16Z"
+    "updatedAt": "2026-10-20T15:59:14Z"
   },
   {
     "name": "GeoPlantNet website",
     "status": "up",
-    "updatedAt": "2026-10-20T15:50:32Z"
+    "updatedAt": "2026-10-20T16:00:30Z"
   },
   {
     "name": "GeoPlantNet API",
     "status": "up",
-    "updatedAt": "2026-10-20T15:48:10Z"
+    "updatedAt": "2026-10-20T15:58:04Z"
   },
   {
     "name": "maps.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-10-20T15:43:05Z"
+    "updatedAt": "2026-10-20T15:53:01Z"
   },
   {
     "name": "Identification engine via GitHub",
@@ -72,7 +72,7 @@
   {
     "name": "Identification engine via Canada",
     "status": "up",
-    "updatedAt": "2026-10-20T15:24:27Z"
+    "updatedAt": "2026-10-20T15:54:12Z"
   },
   {
     "name": "DataStore bourbonais",
@@ -82,6 +82,6 @@
   {
     "name": "wordpress",
     "status": "up",
-    "updatedAt": "2026-10-20T14:58:16Z"
+    "updatedAt": "2026-10-20T15:58:01Z"
   }
 ]
