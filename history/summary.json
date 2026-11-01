@@ -2,67 +2,67 @@
   {
     "name": "PlantNet API /models",
     "status": "up",
-    "updatedAt": "2026-11-01T11:07:57Z"
+    "updatedAt": "2026-11-01T11:15:55Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-11-01T11:06:46Z"
+    "updatedAt": "2026-11-01T11:14:43Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "up",
-    "updatedAt": "2026-11-01T11:06:53Z"
+    "updatedAt": "2026-11-01T11:14:51Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "up",
-    "updatedAt": "2026-11-01T11:07:44Z"
+    "updatedAt": "2026-11-01T11:15:43Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-11-01T11:06:49Z"
+    "updatedAt": "2026-11-01T11:14:47Z"
   },
   {
     "name": "PlantNet App Web",
-    "status": "up",
-    "updatedAt": "2026-11-01T11:07:48Z"
+    "status": "down",
+    "updatedAt": "2026-11-01T11:15:48Z"
   },
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-11-01T11:07:31Z"
+    "updatedAt": "2026-11-01T11:15:28Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-11-01T11:07:01Z"
+    "updatedAt": "2026-11-01T11:14:58Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-11-01T11:03:32Z"
+    "updatedAt": "2026-11-01T11:13:30Z"
   },
   {
     "name": "GeoPlantNet website",
     "status": "up",
-    "updatedAt": "2026-11-01T11:04:17Z"
+    "updatedAt": "2026-11-01T11:14:15Z"
   },
   {
     "name": "GeoPlantNet API",
     "status": "up",
-    "updatedAt": "2026-11-01T11:04:17Z"
+    "updatedAt": "2026-11-01T11:14:12Z"
   },
   {
     "name": "maps.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-11-01T11:04:09Z"
+    "updatedAt": "2026-11-01T11:14:04Z"
   },
   {
     "name": "Identification engine via GitHub",
     "status": "up",
-    "updatedAt": "2026-11-01T10:58:32Z"
+    "updatedAt": "2026-11-01T11:13:21Z"
   },
   {
     "name": "Identification engine via BS ",
