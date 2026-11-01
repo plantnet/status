@@ -2,47 +2,47 @@
   {
     "name": "PlantNet API /models",
     "status": "up",
-    "updatedAt": "2026-11-01T10:16:11Z"
+    "updatedAt": "2026-11-01T10:20:10Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-11-01T10:14:57Z"
+    "updatedAt": "2026-11-01T10:18:57Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "up",
-    "updatedAt": "2026-11-01T10:15:10Z"
+    "updatedAt": "2026-11-01T10:19:09Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "up",
-    "updatedAt": "2026-11-01T10:15:57Z"
+    "updatedAt": "2026-11-01T10:19:56Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-11-01T10:15:03Z"
+    "updatedAt": "2026-11-01T10:19:01Z"
   },
   {
     "name": "PlantNet App Web",
-    "status": "up",
-    "updatedAt": "2026-11-01T10:16:05Z"
+    "status": "down",
+    "updatedAt": "2026-11-01T10:20:04Z"
   },
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-11-01T10:15:49Z"
+    "updatedAt": "2026-11-01T10:19:47Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-11-01T10:15:11Z"
+    "updatedAt": "2026-11-01T10:19:09Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-11-01T10:13:45Z"
+    "updatedAt": "2026-11-01T10:18:43Z"
   },
   {
     "name": "GeoPlantNet website",
@@ -67,12 +67,12 @@
   {
     "name": "Identification engine via BS ",
     "status": "up",
-    "updatedAt": "2026-11-01T09:48:09Z"
+    "updatedAt": "2026-11-01T10:18:05Z"
   },
   {
     "name": "Identification engine via Canada",
     "status": "up",
-    "updatedAt": "2026-11-01T09:47:50Z"
+    "updatedAt": "2026-11-01T10:17:41Z"
   },
   {
     "name": "DataStore bourbonais",
