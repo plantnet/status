@@ -2,62 +2,62 @@
   {
     "name": "PlantNet API /models",
     "status": "up",
-    "updatedAt": "2026-11-01T11:35:48Z"
+    "updatedAt": "2026-11-01T11:45:45Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-11-01T11:34:37Z"
+    "updatedAt": "2026-11-01T11:44:34Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "up",
-    "updatedAt": "2026-11-01T11:34:46Z"
+    "updatedAt": "2026-11-01T11:44:43Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "up",
-    "updatedAt": "2026-11-01T11:35:42Z"
+    "updatedAt": "2026-11-01T11:45:38Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-11-01T11:34:40Z"
+    "updatedAt": "2026-11-01T11:44:37Z"
   },
   {
     "name": "PlantNet App Web",
-    "status": "up",
-    "updatedAt": "2026-11-01T11:35:43Z"
+    "status": "down",
+    "updatedAt": "2026-11-01T11:45:41Z"
   },
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-11-01T11:35:20Z"
+    "updatedAt": "2026-11-01T11:45:16Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-11-01T11:34:55Z"
+    "updatedAt": "2026-11-01T11:43:59Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-11-01T11:33:24Z"
+    "updatedAt": "2026-11-01T11:43:20Z"
   },
   {
     "name": "GeoPlantNet website",
     "status": "up",
-    "updatedAt": "2026-11-01T11:34:07Z"
+    "updatedAt": "2026-11-01T11:44:04Z"
   },
   {
     "name": "GeoPlantNet API",
     "status": "up",
-    "updatedAt": "2026-11-01T11:34:10Z"
+    "updatedAt": "2026-11-01T11:44:06Z"
   },
   {
     "name": "maps.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-11-01T11:34:00Z"
+    "updatedAt": "2026-11-01T11:43:57Z"
   },
   {
     "name": "Identification engine via GitHub",
@@ -82,6 +82,6 @@
   {
     "name": "wordpress",
     "status": "up",
-    "updatedAt": "2026-11-01T10:38:50Z"
+    "updatedAt": "2026-11-01T11:38:35Z"
   }
 ]
