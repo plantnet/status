@@ -2,47 +2,47 @@
   {
     "name": "PlantNet API /models",
     "status": "up",
-    "updatedAt": "2026-11-01T13:15:21Z"
+    "updatedAt": "2026-11-01T13:23:19Z"
   },
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-11-01T13:14:08Z"
+    "updatedAt": "2026-11-01T13:22:05Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "up",
-    "updatedAt": "2026-11-01T13:14:21Z"
+    "updatedAt": "2026-11-01T13:22:19Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "up",
-    "updatedAt": "2026-11-01T13:15:16Z"
+    "updatedAt": "2026-11-01T13:23:14Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-11-01T13:14:17Z"
+    "updatedAt": "2026-11-01T13:22:16Z"
   },
   {
     "name": "PlantNet App Web",
-    "status": "up",
-    "updatedAt": "2026-11-01T13:15:16Z"
+    "status": "down",
+    "updatedAt": "2026-11-01T13:23:14Z"
   },
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-11-01T13:14:51Z"
+    "updatedAt": "2026-11-01T13:22:49Z"
   },
   {
     "name": "API (my.plantnet.org)",
     "status": "up",
-    "updatedAt": "2026-11-01T13:13:39Z"
+    "updatedAt": "2026-11-01T13:21:36Z"
   },
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-11-01T13:12:55Z"
+    "updatedAt": "2026-11-01T13:22:53Z"
   },
   {
     "name": "GeoPlantNet website",
@@ -57,7 +57,7 @@
   {
     "name": "maps.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-11-01T13:13:24Z"
+    "updatedAt": "2026-11-01T13:23:22Z"
   },
   {
     "name": "Identification engine via GitHub",
@@ -67,12 +67,12 @@
   {
     "name": "Identification engine via BS ",
     "status": "up",
-    "updatedAt": "2026-11-01T12:47:12Z"
+    "updatedAt": "2026-11-01T13:17:03Z"
   },
   {
     "name": "Identification engine via Canada",
     "status": "up",
-    "updatedAt": "2026-11-01T12:46:52Z"
+    "updatedAt": "2026-11-01T13:16:44Z"
   },
   {
     "name": "DataStore bourbonais",
