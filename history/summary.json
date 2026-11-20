@@ -17,7 +17,7 @@
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-11-20T13:15:20Z"
+    "updatedAt": "2026-11-20T13:17:18Z"
   },
   {
     "name": "PlantNet App Web",
@@ -27,7 +27,7 @@
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-11-20T13:14:57Z"
+    "updatedAt": "2026-11-20T13:16:56Z"
   },
   {
     "name": "API (my.plantnet.org)",
@@ -42,7 +42,7 @@
   {
     "name": "GeoPlantNet API",
     "status": "up",
-    "updatedAt": "2026-11-20T13:07:27Z"
+    "updatedAt": "2026-11-20T13:17:22Z"
   },
   {
     "name": "GeoPlantNet website",
