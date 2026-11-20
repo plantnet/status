@@ -2,22 +2,22 @@
   {
     "name": "Identification engine",
     "status": "up",
-    "updatedAt": "2026-11-20T13:02:44Z"
+    "updatedAt": "2026-11-20T13:04:43Z"
   },
   {
     "name": "PlantNet App API observations feed LOGGED IN",
     "status": "up",
-    "updatedAt": "2026-11-20T13:02:15Z"
+    "updatedAt": "2026-11-20T13:04:15Z"
   },
   {
     "name": "PlantNet App API observations feed",
     "status": "up",
-    "updatedAt": "2026-11-20T13:02:15Z"
+    "updatedAt": "2026-11-20T13:04:14Z"
   },
   {
     "name": "Image server",
     "status": "up",
-    "updatedAt": "2026-11-20T13:03:23Z"
+    "updatedAt": "2026-11-20T13:05:22Z"
   },
   {
     "name": "PlantNet App Web",
@@ -27,7 +27,7 @@
   {
     "name": "Image geo.plantnet.org",
     "status": "up",
-    "updatedAt": "2026-11-20T13:03:00Z"
+    "updatedAt": "2026-11-20T13:05:00Z"
   },
   {
     "name": "API (my.plantnet.org)",
@@ -37,7 +37,7 @@
   {
     "name": "API (my.plantnet.org) identify",
     "status": "up",
-    "updatedAt": "2026-11-20T13:00:07Z"
+    "updatedAt": "2026-11-20T13:05:05Z"
   },
   {
     "name": "GeoPlantNet API",
